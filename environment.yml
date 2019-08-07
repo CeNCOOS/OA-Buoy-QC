@@ -10,6 +10,7 @@ dependencies:
   - cloudpickle=1.2.1
   - decorator=4.4.0
   - ipykernel=5.1.0
+  - ioos_qc=0.1.1
   - ipython=7.0.1
   - ipython_genutils=0.2.0
   - jedi=0.12.1
@@ -47,7 +48,6 @@ dependencies:
     - cftime==1.0.3.4
     - cycler==0.10.0
     - geojson==2.4.1
-    - ioos-qc==0.1.1
     - jinja2==2.10.1
     - kiwisolver==1.1.0
     - markupsafe==1.1.1
